@@ -1,0 +1,11 @@
+{
+  "http_provider": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "wss_provider": "wss://mainnet.infura.io/ws/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "recipient": "",
+  "privateKey": "",
+  "profit": 200,
+  "AMOUNT_OF_BNB": 0.0000001,
+  "Slippage": 10,
+  "gasPrice": 20,
+  "gasLimit": 345684
+}
